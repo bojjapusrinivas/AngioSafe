@@ -107,7 +107,7 @@ body{
 @media (max-width: 479px) {
 
     .big1{
-        font-size:20px;
+        font-size:24px;
       
     }
     .big2{
@@ -205,7 +205,7 @@ body{
     .navbar-brand {
         margin: 0 auto;
         text-align: center;
-        margin-bottom: 15px;
+        margin-bottom:10px;
     }
 
     .navbar-brand .brand-logo {
